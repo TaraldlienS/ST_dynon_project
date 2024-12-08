@@ -11,5 +11,5 @@ There are three things of note when running this C++ code
 _____________________________________________________________________________________________________________________________________________________________________________
 4. Example of *ChosenExecutableName* can be myProgram, myExec, IPCexample, mailSimulator, etc...
 5. Not having a space/' ' followed by either 1 or 2 will result in an error (any number in that spot will run it in all honesty, but only 2 shows the extra print statements)
-
+_____________________________________________________________________________________________________________________________________________________________________________
 For any questions email: sindre_taraldlien@hotmail.com
